@@ -1,0 +1,11 @@
+node_modules/ 
+test-results/ 
+playwright-report/ 
+playwright/.cache/ 
+.env 
+.env.local 
+dist/ 
+blob-report/ 
+storage-state.json 
+allure-results/ 
+allure-report/
